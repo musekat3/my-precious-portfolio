@@ -1,0 +1,110 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #F5EDD3;
+}
+
+.header {
+    padding: 20px; 
+    font-family: 'Bookman', 'URW Bookman L', 'serif'; 
+    color: #ffffff; 
+    background-color: #2f4f4f;
+}
+
+.header h1 {
+    display: inline-block; 
+    font-size: 40px; 
+}
+
+.header div {
+    padding-top: 15px; 
+    margin-right: 20px;
+    float: right;
+    font-family: 'Bookman', 'URW Bookman L', 'serif';
+    font-size: 20px; 
+}
+
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px; 
+    color: #ffffff; 
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.content {
+    font-size: 20px;
+    font-family: 'Bookman', 'URW Bookman L', 'serif';
+    color: #2f4f4f; 
+}
+
+p {
+    font-size: 18px;
+    line-height: 24px; 
+}
+
+.about-me {
+    font-size: 20px;
+    font-family: 'Bookman', 'URW Bookman L', 'serif';
+    color: #2f4f4f; 
+    text-align: right; 
+    margin-right: 200px; 
+    padding-top: 100px; 
+}
+
+.my-work {
+    font-size: 20px;
+    font-family: 'Bookman', 'URW Bookman L', 'serif';
+    color: #2f4f4f; 
+    padding: 10px;
+    margin-top: 300px;
+    margin-left: 200px;  
+}
+
+.contact-me {
+    font-size: 20px;
+    font-family: 'Bookman', 'URW Bookman L', 'serif';
+    color: #2f4f4f;  
+    text-align: center; 
+    margin-top: 600px;  
+}
+ 
+.about-me img { 
+    float: left; 
+    max-height: 275px;  
+    border-radius: 50%;
+    margin-left: 200px; 
+}
+
+.my-work img {
+    float: right; 
+    max-height: 350px;
+    margin-right: 150px;  
+}
+
+.example-1 {
+    float: right;
+    max-height: 175px; 
+    margin-top: 150px; 
+    margin-bottom: 200px; 
+    margin-right: -335px; 
+}
+
+.example-3 {
+    float: right; 
+    max-height: 175px;
+    margin-top: 150px;
+    margin-bottom: 200px;
+    margin-right: -165px; 
+}
