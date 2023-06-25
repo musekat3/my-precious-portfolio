@@ -13,13 +13,7 @@ This website should be used to see my portfolio and to contact me (when I have t
 I have decided to make this website themed to hopefully stand out a little bit. I haven't added much information as I am still learning every day. 
 
 * Sections 
-My webpage currently includes the sections of:
-
-- About Me
-
--  My Work
-
--  Contact Me 
+My webpage currently includes the sections of: About Me, My Work, and Contact Me 
 
 * Surprise! 
 Just a heads-up. I have added a media player at the bottom left of the webpage that will play a mp3 file to add to the experience of viewing my portfolio. 
