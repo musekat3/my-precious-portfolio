@@ -15,11 +15,11 @@ I have decided to make this website themed to hopefully stand out a little bit. 
 * Sections 
 My webpage currently includes the sections of:
 
-* About Me
+- About Me
 
-* My Work
+-  My Work
 
-* Contact Me 
+-  Contact Me 
 
 * Surprise! 
 Just a heads-up. I have added a media player at the bottom left of the webpage that will play a mp3 file to add to the experience of viewing my portfolio. 
